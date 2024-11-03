@@ -1,0 +1,19 @@
+🔰 Instagram Automatic Unfollow Plus Tool Bot Instagram Script to Unfollow All Your Followers. 🔰
+
+
+🔴 Setup :-
+
+$  apt update && apt upgrade -y
+
+$  apt install git -y
+
+$  apt install python -y
+
+$  git clone https://github.com/htr-tech/unfollow-plus 
+
+$  cd unfollow-plus
+
+$  chmod +x unfollower.sh
+
+$  bash unfollower.sh 
+(It is not stolen, it was edited and shared by me.)
